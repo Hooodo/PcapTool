@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PcapTools", "PcapTools\PcapTools.vcxproj", "{573B3CB9-7108-4475-AB6C-893679FE20D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PcapTools(WTL)", "PcapTools(WTL)\PcapTools(WTL).vcxproj", "{843327AA-9D18-4B07-B6CD-AF50A7AA7522}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{573B3CB9-7108-4475-AB6C-893679FE20D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{573B3CB9-7108-4475-AB6C-893679FE20D8}.Debug|Win32.Build.0 = Debug|Win32
+		{573B3CB9-7108-4475-AB6C-893679FE20D8}.Release|Win32.ActiveCfg = Release|Win32
+		{573B3CB9-7108-4475-AB6C-893679FE20D8}.Release|Win32.Build.0 = Release|Win32
+		{843327AA-9D18-4B07-B6CD-AF50A7AA7522}.Debug|Win32.ActiveCfg = Debug|Win32
+		{843327AA-9D18-4B07-B6CD-AF50A7AA7522}.Debug|Win32.Build.0 = Debug|Win32
+		{843327AA-9D18-4B07-B6CD-AF50A7AA7522}.Release|Win32.ActiveCfg = Release|Win32
+		{843327AA-9D18-4B07-B6CD-AF50A7AA7522}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
